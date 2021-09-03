@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hiring passionate application developers!!!
+Have you been solving difficult problems 3+ years, and up for a challenge? Join us to make AI useful and better!
+
+Apply [here](https://www.veritone.com/careers/), and ping [me](mailto:mturco@aiware.com)!
 
 <!--
 **MmtBkn/MmtBkn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
